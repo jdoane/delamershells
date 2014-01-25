@@ -32,8 +32,7 @@ PROJECT_PATH = os.path.abspath(PROJECT_PATH)
 TEMPLATE_PATH = os.path.join(PROJECT_PATH, 'templates')
 
 TEMPLATE_DIRS = (
-   # 'C:/Users/Justin/Desktop/Code/Website/shellsite_project/templates/'
-    TEMPLATE_PATH,
+       TEMPLATE_PATH,
     )
 
 
